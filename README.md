@@ -24,12 +24,12 @@ The most frequently occurring word length is 2, for word lengths of 4 & 5
 
 # Development Environment
 
-Eclipse version 2020-09 (4.17.0)
-JRE version 1.8u45
-MacOS version 10.15.7
+* Eclipse version 2020-09 (4.17.0)
+* JRE version 1.8u45
+* MacOS version 10.15.7
 
 
 # Troubleshooting
 
-java --version should be JRE 8 or later
-Enable verbose logging by modifying log4j2.xml
+* java --version should be JRE 8 or later
+* Enable verbose logging by modifying log4j2.xml
